@@ -20,4 +20,13 @@ public class GearBoxProgram {
 	//     - 20 - 50 - 2nd gear
 	//     - 50-80 - 3rd gear
 	//     - 80+ 4th gear
+	
+//	public int getCorrectGear(String type, int Speed) {
+//		switch(type) {
+//		case "SUV":
+//			if() {
+//				return 3;
+//			}
+//		}
+//	}
 }
