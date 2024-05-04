@@ -24,5 +24,9 @@ public class ArrayListDemo {
 //		}
 		myIntegerList.addAll(anotherIntList);
 		System.out.println(myIntegerList);
+		
+		for(int i : myIntegerList) {
+			System.out.println(i);
+		}
 	}
 }
